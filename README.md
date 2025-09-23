@@ -1,4 +1,5 @@
-# ☁️ NimbusIDE <img width="200" height="200" alt="Gemini_Generated_Image_5ym7by5ym7by5ym7-Picsart-BackgroundRemover" src="https://github.com/user-attachments/assets/25a83bc8-d6c7-4137-bc0e-92fc9282149b" />
+# ☁️ NimbusIDE <img width="500" height="500" alt="Gemini_Generated_Image_iqgzw9iqgzw9iqgz-fotor-bg-remover-2025092319741" src="https://github.com/user-attachments/assets/cc89ee6b-fe3d-49ed-b107-234db3d2c81f" />
+
 
 NimbusIDE is a modern, lightweight, cloud-friendly **browser-based IDE**.  
 Built for speed, simplicity, and AI-powered coding assistance.  

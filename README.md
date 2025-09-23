@@ -1,36 +1,43 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# ☁️ NimbusIDE
 
-## Getting Started
+NimbusIDE is a modern, lightweight, cloud-friendly **browser-based IDE**.  
+Built for speed, simplicity, and AI-powered coding assistance.  
 
-First, run the development server:
+Think of it as coding on a cloud — smooth, minimal, and effortless.  
+
+---
+
+## ✨ Features
+- **Next.js + TypeScript** – Scalable, type-safe foundation.
+- **TailwindCSS + Shadcn** – Beautiful, minimal, customizable UI components.
+- **xterm.js integration** – Built-in terminal for real-time commands.
+- **Ollama AI support** – Code generation, explanations, and pair programming.
+- **Cloud-first workflow** – Access your IDE anywhere, anytime.
+- **Modern theming** – Dark/light mode and customizable themes.
+
+---
+
+## 🛠️ Tech Stack
+- **Framework**: [Next.js](https://nextjs.org/)  
+- **Styling**: [Tailwind CSS](https://tailwindcss.com/), [shadcn/ui](https://ui.shadcn.com/)  
+- **Language**: [TypeScript](https://www.typescriptlang.org/)  
+- **Terminal**: [xterm.js](https://xtermjs.org/)  
+- **AI**: [Ollama](https://ollama.ai/)  
+- **Version Control**: Git + GitHub  
+
+---
+
+## 🚀 Getting Started
 
 ```bash
+git clone https://github.com/your-username/nimbuside.git
+cd nimbuside
+
+
+
+npm Install dependencies
+
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Visit 👉 http://localhost:3000
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.

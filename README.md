@@ -23,7 +23,15 @@ Think of it as coding on a cloud — smooth, minimal, and effortless.
 - **Language**: [TypeScript](https://www.typescriptlang.org/)  
 - **Terminal**: [xterm.js](https://xtermjs.org/)  
 - **AI**: [Ollama](https://ollama.ai/)  
-- **Version Control**: Git + GitHub  
+- **Version Control**: Git + GitHub
+
+
+
+🌩️ Why Nimbus?
+
+Nimbus = Cloud, lightness, effortless workflow.
+
+Coding that feels smooth, simple, and powerful.
 
 ---
 

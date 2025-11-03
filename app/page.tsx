@@ -5,7 +5,7 @@ export default function Home() {
   
   return (
     <div>
-      <Button className="text-4xl">Nimbus Ide</Button>
+      <Button  className="">Nimbus IDE</Button>
     </div>
   );
 }
